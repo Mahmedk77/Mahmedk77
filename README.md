@@ -61,6 +61,24 @@ A responsive UI utility that generates, saves, and copies custom color palettes.
 💬 Ask me about **React**, **Next.js**, or **API development**
 
 ---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmedk77&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmedk77&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmedk77&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmedk77&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
 
 ## 🤝 Connect With Me
 
