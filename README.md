@@ -9,9 +9,8 @@ I build fast, functional, and future-ready products using the **MERN stack**, **
 
 | 🌐 Frontend | ⚡ Backend & API | 🗄️ Database & Auth | 🧩 Tools & Deployment |
 |--------------|-----------------|--------------------|------------------------|
-| Next.js • React • Tailwind CSS • Material UI | Node.js • Express.js • REST APIs • JWT Auth | MongoDB • Mongoose • Firebase • Prisma | Git • GitHub • Vercel • Render • Docker |
+| - Next.js <br> - React <br> - Tailwind CSS <br> - Material UI | - Node.js <br> - Express.js <br> - REST APIs <br> - JWT Authentication | - MongoDB <br> - Mongoose <br> - Firebase <br> - Prisma | - Git & GitHub <br> - Vercel <br> - Render <br> - Docker |
 
----
 
 ## 🧠 Core Expertise
 
@@ -64,10 +63,6 @@ A responsive UI utility that generates, saves, and copies custom color palettes.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmedk77&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmedk77&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -75,9 +70,7 @@ A responsive UI utility that generates, saves, and copies custom color palettes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmedk77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmedk77&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
+
 
 
 ## 🤝 Connect With Me
