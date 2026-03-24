@@ -81,4 +81,4 @@ A responsive UI utility that generates, saves, and copies custom color palettes.
 
 ---
 
-⭐ **“Building ideas into impactful web experiences — one commit at a time.”**
+⭐ **Building ideas into impactful web experiences**
