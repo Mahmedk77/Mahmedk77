@@ -80,27 +80,10 @@ const muhammad = {
 
 | 🚀 Project | 🧰 Stack | ✨ Highlights |
 |:---|:---|:---|
-| **[Threads Clone](https://github.com/Mahmedk77)** — Social Media Platform | Next.js · TypeScript · MongoDB · Clerk | Server-side auth, nested replies, infinite scroll, live at scale |
-| **[E-Commerce Platform](https://github.com/Mahmedk77)** — Full-Stack Store | MERN · Stripe · JWT | Admin dashboard, RBAC, Stripe payments, real-time order tracking |
-| **[Pitchify](https://github.com/Mahmedk77)** — Startup Discovery App | Next.js · Sanity CMS · TypeScript | GROQ queries, advanced search, view-count tracking, SSR |
-| **[Task Manager](https://github.com/Mahmedk77)** — Productivity App | MERN Stack | Full CRUD, user auth, responsive design, live deployment |
-| **[Subscription Tracker API](https://github.com/Mahmedk77)** — Backend | Node.js · Express · JWT | Rate limiting, modular arch, automated email workflows |
-| **[YouTube Clone](https://github.com/Mahmedk77)** — UI Recreation | React.js · RapidAPI | Faithful YouTube UI with live video data |
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<div align="center">
-
-| 🏢 Company | 🎯 Role | 📅 Duration | 🔑 Key Work |
-|:---|:---|:---|:---|
-| **Manaknight Digital** | QA Engineer | Dec 2024 – Feb 2026 | Test plans, API validation (Postman), bug reporting, Figma QA |
-| **Walee Lab** | Web Developer Intern | Jun – Aug 2024 | React.js UI, Node.js API integration, agile sprints |
-| **NUST Rise Lab** | Python Intern | Jun 2023 | Algorithms, automation, project-based Python learning |
-| **Team Vitesse NUST** | Manufacturing Lead | Sep 2025 | TEKNOFEST UAV competition · OpenCV · ROS · MAVLink |
+| **[Threads Clone](https://github.com/Mahmedk77/threads-next-app)** — Social Media Platform | Next.js · TypeScript · MongoDB · Clerk | Server-side auth, nested replies, infinite scroll, live at scale |
+| **[E-Commerce Platform](https://github.com/Mahmedk77/mern-e-commerce)** — Full-Stack Store | MERN · Stripe · JWT | Admin dashboard, RBAC, Stripe payments, real-time order tracking |
+| **[Pitchify](https://github.com/Mahmedk77/pitchify-next-app)** — Startup Discovery App | Next.js · Sanity CMS · TypeScript | GROQ queries, advanced search, view-count tracking, SSR |
+| **[Subscription Tracker API](https://github.com/Mahmedk77/subs-tracker-api)** — Backend | Node.js · Express · JWT | Rate limiting, modular arch, automated email workflows |
 
 </div>
 
@@ -124,7 +107,6 @@ const muhammad = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmedk77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmedk77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br/>
@@ -133,25 +115,8 @@ const muhammad = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmedk77&bg_color=0d1117&color=a78bfa&line=38bdf8&point=f472b6&hide_border=true" alt="Activity Graph" />
 
 </div>
-
----
-
-## 🌱 Currently Leveling Up
-
-```json
-{
-  "learning": [
-    "Next.js 15 App Router & Server Actions",
-    "TypeScript — advanced patterns & type safety",
-    "Scalable backend architecture (Controllers + Services + Repositories)",
-    "Clerk Webhooks & advanced auth flows",
-    "AI integrations with LangChain & Vercel AI SDK"
-  ]
-}
-```
 
 ---
 
@@ -162,9 +127,9 @@ const muhammad = {
 | 🎖️ | Role | Organization |
 |:---:|:---|:---|
 | 🌍 | **Manufacturing Lead** — TEKNOFEST 2025 International UAV Competition | Team Vitesse NUST, Turkey |
-| 🧑‍💻 | **Campus Organizer** | Google Developer Groups (GDG) Islamabad |
+| 💻 | **Campus Organizer** | Google Developer Groups (GDG) Islamabad |
+| 💻 | **Event Organizer** | FICS NUST |
 | 👥 | **Director of Human Resources** | NCBS NUST |
-| 🤝 | **Executive – Sponsorship** | TABA NUST |
 
 </div>
 
