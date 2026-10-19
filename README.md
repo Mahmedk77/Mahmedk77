@@ -1,152 +1,54 @@
-<div align="center">
+# Muhammad Ahmed
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descColor=a78bfa&descSize=18&animation=twinkling" alt="Header" />
+**AI Engineer** · Multi-agent systems, RAG, and voice agents
 
-<br/>
+I build production LLM applications: multi-agent workflows, retrieval pipelines, and voice agents that replace manual operations with measurable time savings. I have 3+ years of hands-on experience across AI engineering and full-stack development, working mainly in TypeScript and Python. Bachelor of Engineering student at NUST, Islamabad.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;MERN+%2B+Next.js+%2B+TypeScript;From+UI+to+API+%E2%80%94+end+to+end;Open+for+Freelance+%26+Collaboration)](https://git.io/typing-svg)
+Open to remote AI engineering roles.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmedkk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdh.devstudio@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
-</div>
+[LinkedIn](https://linkedin.com/in/mahmedkk) · [Email](mailto:mak.212601@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## Selected Work
 
-```ts
-const muhammad = {
-  location   : "Islamabad, Pakistan 🇵🇰",
-  education  : "B.E. – NUST (2023–Present)",
-  role       : "Full-Stack Engineer | QA Engineer",
-  experience : "1.5+ years professional + internships",
-  focus:     : ["Production-Grade Full-Stack", "AI-Augmented Products", 
-               "Cloud-Native & Edge-Ready", "API Architecture & Design"],
-  available  : "Freelance & Full-time opportunities ✅",
-  motto      : "Ship fast. Scale smart. Build with intent.",
-};
-```
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **DocuSearch: RAG Document Q&A**<br>[Live](https://week-3-project-document-qa-system.vercel.app/) · [Code](https://github.com/Mahmedk77/Week-3-Project-Document-QA-System) | End-to-end RAG pipeline from PDF ingestion to cited answers. Hybrid search (vector + full-text via Reciprocal Rank Fusion) and server-side citation verification that returns filename, page number, and exact quote. | Next.js, Supabase pgvector, OpenAI embeddings |
+| **Conversational Research Agent**<br>[Live](https://week2-research-agent.vercel.app/) · [Code](https://github.com/Mahmedk77/Week-2-Project-Conversational-Research-Agent) | Streaming tool-calling agent over web search, a knowledge base, and a calculator. Model fallback chain with cooldown cache, two-tier conversation memory, and a hand-written expression parser in place of `eval`. | LangChain, LangGraph, OpenAI, Groq, Supabase, Tavily |
+| **Autonomous UAV–UGV Landing Platform**<br>TEKNOFEST 2025, Gold Medal | Ground vehicle that lets a UAV land precisely on a moving platform, using ArUco marker detection and MAVLink communication over MAVROS and rosserial. Built as Manufacturing Lead of Team Vitesse NUST. | OpenCV, ArUco, Raspberry Pi 4, Pixhawk, Arduino |
 
----
+## Experience
 
-## 🛠️ Tech Arsenal
+- **Manaknight Digital**, Data & AI Operations Specialist (2026). Multi-agent LangGraph.js pipelines in production. Published 3,000+ verified events to [BN Events](https://bnevent.personalsoftware.space/) and cut video-ad production from ~5–6 hours to ~1 hour per video.
+- **Arachnix**, AI Engineer (2025–2026). LangGraph booking system that autonomously resolved 60% of 200+ weekly clinic inquiries. Voice agents handling 1,000+ calls per month.
+- **Vyro.ai**, Junior Full Stack Developer (2024–2025). Cut gallery load time 35% and lifted free-to-paid conversion from 2.1% to 2.8%.
 
-<div align="center">
+Full detail on [LinkedIn](https://linkedin.com/in/mahmedkk).
 
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+## Technical Focus
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+| Area | Tools |
+|:--|:--|
+| AI and agents | LangGraph, LangChain, tool calling, RAG, embeddings, pgvector, structured outputs, LangSmith evaluation and tracing |
+| Models and voice | OpenAI, Claude, Gemini, Groq, ElevenLabs, Vapi, Twilio |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Backend and web | Node.js, FastAPI, Next.js, React, n8n, PostgreSQL, MongoDB, Redis, Supabase |
+| DevOps | Docker, GitHub Actions, AWS, Git |
 
-### 🗄️ Databases & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Earlier Full-Stack Work
 
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- [Threads Clone](https://github.com/Mahmedk77/threads-next-app): Next.js, TypeScript, MongoDB, Clerk
+- [E-Commerce Platform](https://github.com/Mahmedk77/mern-e-commerce): MERN stack, Stripe, JWT
+- [Pitchify](https://github.com/Mahmedk77/pitchify-next-app): Next.js, Sanity CMS, TypeScript
 
-### 🤖 AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+## Recognition and Community
 
-</div>
+- Gold Medalist, TEKNOFEST 2025 International UAV Competition (Team Vitesse NUST)
+- 3rd place of 250+ teams, NETSOL AI Hackathon
+- Dean's List Honoree, NUST
+- Campus Organizer, Google Developer Groups Islamabad · Event Organizer, FICS NUST · Director of Human Resources, NCBS NUST
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🧰 Stack | ✨ Highlights |
-|:---|:---|:---|
-| **[Threads Clone](https://github.com/Mahmedk77/threads-next-app)** — Social Media Platform | Next.js · TypeScript · MongoDB · Clerk | Server-side auth, nested replies, infinite scroll, live at scale |
-| **[E-Commerce Platform](https://github.com/Mahmedk77/mern-e-commerce)** — Full-Stack Store | MERN · Stripe · JWT | Admin dashboard, RBAC, Stripe payments, real-time order tracking |
-| **[Pitchify](https://github.com/Mahmedk77/pitchify-next-app)** — Startup Discovery App | Next.js · Sanity CMS · TypeScript | GROQ queries, advanced search, view-count tracking, SSR |
-| **[Subscription Tracker API](https://github.com/Mahmedk77/subs-tracker-api)** — Backend | Node.js · Express · JWT | Rate limiting, modular arch, automated email workflows |
-
-</div>
-
----
-
-## 🧠 Core Competencies
-
-<div align="center">
-
-| 🧩 Full-Stack Dev | 🔐 Auth & Security | 📦 Backend Design | ⚡ Performance |
-|:---:|:---:|:---:|:---:|
-| MERN + Next.js | JWT · Clerk · Firebase | REST APIs · MVC | Pagination · Indexing |
-| SSR / ISR / CSR | Role-Based Access Control | Serverless Functions | Query Optimization |
-| Reusable Components | Zod Schema Validation | Modular Architecture | Lazy Loading · CDN |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmedk77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmedk77&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak" />
-
-<br/>
-
-
-</div>
-
----
-
-## 🏆 Achievements & Leadership
-
-<div align="center">
-
-| 🎖️ | Role | Organization |
-|:---:|:---|:---|
-| 🌍 | **Manufacturing Lead** — TEKNOFEST 2025 International UAV Competition | Team Vitesse NUST, Turkey |
-| 💻 | **Campus Organizer** | Google Developer Groups (GDG) Islamabad |
-| 💻 | **Event Organizer** | FICS NUST |
-| 👥 | **Director of Human Resources** | NCBS NUST |
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Together
-
-*Open to freelance projects, full-time roles, and exciting collaborations.*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmedkk)
-[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdh.devstudio@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmedk77)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
-
-</div>
+*Get in touch: [LinkedIn](https://linkedin.com/in/mahmedkk) or [mak.212601@gmail.com](mailto:mak.212601@gmail.com).*
